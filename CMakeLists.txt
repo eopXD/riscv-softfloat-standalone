@@ -10,4 +10,3 @@ set(LIB ${CMAKE_CURRENT_LIST_DIR}/lib)
 
 add_subdirectory(include)
 add_subdirectory(lib)
-add_subdirectory(test)
